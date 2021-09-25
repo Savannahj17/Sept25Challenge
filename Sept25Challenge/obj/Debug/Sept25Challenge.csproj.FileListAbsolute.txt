@@ -1,0 +1,7 @@
+C:\Users\Savannah\Desktop\ElevenFiftyProjects\ElevenFiftyProjects\GoldBadge\Sept25Challenge\Sept25Challenge\obj\Debug\Sept25Challenge.csproj.AssemblyReference.cache
+C:\Users\Savannah\Desktop\ElevenFiftyProjects\ElevenFiftyProjects\GoldBadge\Sept25Challenge\Sept25Challenge\obj\Debug\Sept25Challenge.csproj.CoreCompileInputs.cache
+C:\Users\Savannah\Desktop\ElevenFiftyProjects\ElevenFiftyProjects\GoldBadge\Sept25Challenge\Sept25Challenge\bin\Debug\Sept25Challenge.exe.config
+C:\Users\Savannah\Desktop\ElevenFiftyProjects\ElevenFiftyProjects\GoldBadge\Sept25Challenge\Sept25Challenge\bin\Debug\Sept25Challenge.exe
+C:\Users\Savannah\Desktop\ElevenFiftyProjects\ElevenFiftyProjects\GoldBadge\Sept25Challenge\Sept25Challenge\bin\Debug\Sept25Challenge.pdb
+C:\Users\Savannah\Desktop\ElevenFiftyProjects\ElevenFiftyProjects\GoldBadge\Sept25Challenge\Sept25Challenge\obj\Debug\Sept25Challenge.exe
+C:\Users\Savannah\Desktop\ElevenFiftyProjects\ElevenFiftyProjects\GoldBadge\Sept25Challenge\Sept25Challenge\obj\Debug\Sept25Challenge.pdb
